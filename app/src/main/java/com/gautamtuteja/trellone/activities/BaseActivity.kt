@@ -61,6 +61,7 @@ open class BaseActivity : AppCompatActivity() {
         snackbarView.setBackgroundColor(ContextCompat.getColor(this,
             R.color.snackbar_error_color))
         snackbar.show()
+
     }
 
 
