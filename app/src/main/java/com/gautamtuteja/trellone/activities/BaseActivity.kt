@@ -62,6 +62,8 @@ open class BaseActivity : AppCompatActivity() {
             R.color.snackbar_error_color))
         snackbar.show()
 
+        abcdex
+
 
     }
 
